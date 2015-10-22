@@ -45,3 +45,25 @@ p{
     font-size:10px;
     fill:rgb(180,180,180);
 }
+.primaryCompletion {
+	stroke-width:1px;
+	stroke: #f40b00
+}
+
+
+.urbanPopulation {
+	stroke-width:1px;
+	stroke: #0782db
+}
+.grey {
+	stroke-width:1px;
+	stroke:#f2f2f2;
+}
+
+.countries {
+	opacity: .75;
+}
+.numberText {
+	font-size:20px;
+	fill:#333333;
+}
